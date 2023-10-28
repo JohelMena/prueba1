@@ -10,6 +10,7 @@ public class Equipo {
     private String direccion;
     private String colorCamiseta;
     private byte campGanados;
+    int edad;
 
     
     public Equipo(String nomEquipo, int anhoFundacion, String direccion, String colorCamiseta, byte campGanados) {
